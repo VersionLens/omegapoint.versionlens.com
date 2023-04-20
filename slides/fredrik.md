@@ -29,11 +29,12 @@
 ![No internal translation issue](/images/no-translation-issue.png) <!-- .element: style="max-width: 40%" -->
 
 
+
 ## AI can solve this to a large extent, but...
 
-### How do we trust the AI? <!-- .element: class="fragment" -->
+* How do we trust the AI? <!-- .element: class="fragment" -->
 
-### And how do you trust a human? <!-- .element: class="fragment" -->
+* And how do you trust a human? <!-- .element: class="fragment" -->
 
 
 
