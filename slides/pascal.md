@@ -1,7 +1,3 @@
-### How can we structurally "trust" code-changes made by an AI?
-
-
-
 Code-changes by AI must be "scoped"<br> - structurally restricted.
 
 
