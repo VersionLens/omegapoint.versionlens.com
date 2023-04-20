@@ -33,7 +33,6 @@
 ## AI can solve this to a large extent, but...
 
 * How do we trust the AI? <!-- .element: class="fragment" -->
-
 * And how do you trust a human? <!-- .element: class="fragment" -->
 
 
@@ -47,7 +46,6 @@
 | Hallucinations / Overconfident          | Expensive                            |
 | Lack of accountability                  | Needs coffee                         |
 <!-- .element: style="font-size: 30px;" -->
-
 
 
 ### How do we minimize the problems with both AI and humans?
