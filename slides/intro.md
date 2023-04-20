@@ -29,4 +29,7 @@
 
 
 
-<video controls="controls" src="/images/demo.mp4"></video>
+<video controls="controls">
+    <source src="/images/demo.mp4" type="video/mp4" />
+    <source src="/images/demo.webm" type="video/webm" />
+</video>
