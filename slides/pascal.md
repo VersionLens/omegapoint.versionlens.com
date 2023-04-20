@@ -131,5 +131,5 @@ Measuring success
 
 
 
-A system that learns
+Continuous improvement
 ![Scoped change Sandbox](/images/pr-guidance.png "Scoped change learning")<!-- .element: class="fragment" style="max-width: 65%;" -->
