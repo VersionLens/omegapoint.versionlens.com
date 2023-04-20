@@ -1,4 +1,8 @@
-Code-changes by AI must be "scoped"<br> - structurally restricted.
+By using AI to do the boring work, <br>with human guidance.
+
+How do we allow AI to make code-changes as<br> safely as possible?<!-- .element: class="fragment" -->
+
+Code-changes by AI must be "scoped"<br> - structurally restricted.<!-- .element: class="fragment" -->
 
 
 
