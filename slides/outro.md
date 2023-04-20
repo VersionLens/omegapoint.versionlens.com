@@ -17,3 +17,10 @@
 - This presentation: [omegapoint.versionlens.com](https://omegapoint.versionlens.com)
 - [versionlens.com](https://versionlens.com)
 - pascal@versionlens.com, fredrik@versionlens.com
+
+Note:
+Questions for the discussion
+- What would you **never** trust an AI to do?
+- What would you **never** trust a human to do?
+- Can you see this happening in the near future?
+- Do you think people feel threatened?
