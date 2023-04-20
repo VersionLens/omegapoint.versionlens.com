@@ -35,6 +35,8 @@
 * How do we trust the AI? <!-- .element: class="fragment" -->
 * And how do you trust a human? <!-- .element: class="fragment" -->
 
+![Oops, dropped database](/images/oops.png) <!-- .element: class="fragment" -->
+
 
 
 ### Both AI and humans have flaws

@@ -19,7 +19,7 @@ An example Scope for making markup changes in a frontend app:
 
 
 
-*Guidance example [1/3]*
+*Guidance example [1/2]*
 | | |
 | --- | --- |
 | Change Request | Make the 'Add to basket' button more prominent |
@@ -30,24 +30,13 @@ An example Scope for making markup changes in a frontend app:
 
 
 
-*Guidance example [2/3]*
+*Guidance example [2/2]*
 | | |
 | --- | --- |
 | Change Request | Add the description to the list of products in the products list |
 | Look in the file | `src/components/ProductList.jsx` |
 | Find the element matching this description | One product in the list of products |
 | Action | Add the product description to the element by adding a `<p>` element with the description |
-<!-- .element: style="font-size: 30px;" -->
-
-
-
-*Guidance example [3/3]*
-| | |
-| --- | --- |
-| Change Request | Add a link to 'About us' with target '/about-us' to the footer |
-| Look in the file | `src/components/Footer.jsx` |
-| Find the element matching this description | The footer |
-| Action | Add a link to 'About us' to the footer by adding a `<a>` element with a link to '/about-us' |
 <!-- .element: style="font-size: 30px;" -->
 
 
@@ -105,7 +94,7 @@ We should deal with this the same way we deal with any other user-generated code
 
 
 
-![Scoped change Sandbox](/images/just-sandbox.png "Scoped change sandbox")
+![Scoped change Sandbox](/images/just-sandbox.png "Scoped change sandbox") <!-- .element: style="max-width: 85%;" -->
 
 
 
@@ -117,11 +106,11 @@ We call these Sandboxes "Versions" of a full-stack app, and run them on demand i
 
 How do we verify that changes made by the AI<br> were correct?
 
-![Scoped change Sandbox](/images/just-pr.png "Scoped change PR")<!-- .element: class="fragment" -->
+![Scoped change Sandbox](/images/just-pr.png "Scoped change PR")<!-- .element: class="fragment" style="max-width: 80%;" -->
 
 
 
-How do we verify that changes made by the AI<br> were correct?
+How do we **verify** that changes made by the AI<br> were correct?
 1. Immediate manual verification by the non-developer after hot-reload <!-- .element: class="fragment" -->
 1. Automated tests on git commit to task branch. <!-- .element: class="fragment" -->
 1. Human developer review of task branch Pull Request <!-- .element: class="fragment" -->
@@ -136,4 +125,4 @@ Measuring success
 
 
 Continuous improvement
-![Scoped change Sandbox](/images/pr-guidance.png "Scoped change learning")<!-- .element: class="fragment" style="max-width: 65%;" -->
+![Scoped change Sandbox](/images/pr-guidance.png "Scoped change learning")<!-- .element: class="fragment" style="max-width: 55%;" -->
