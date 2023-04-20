@@ -6,15 +6,15 @@
 
 ## Agenda
 
-* Who are we?
-* Problems in product development today
-* How AI can help us in product development
-* Flaws with AI (and humans)
-* How scoping and guiding helps AI
-* How devops helps AI
-* Verifying the AI
-* Measuring success
-* Continuous improvement
+* Who are we? <!-- .element: class="fragment fade-in-then-semi-out" -->
+* Problems in product development today <!-- .element: class="fragment fade-in-then-semi-out" -->
+* How AI can help us in product development <!-- .element: class="fragment fade-in-then-semi-out" -->
+* Flaws with AI (and humans) <!-- .element: class="fragment fade-in-then-semi-out" -->
+* How scoping and guiding helps AI <!-- .element: class="fragment fade-in-then-semi-out" -->
+* How devops helps AI <!-- .element: class="fragment fade-in-then-semi-out" -->
+* Verifying the AI <!-- .element: class="fragment fade-in-then-semi-out" -->
+* Measuring success <!-- .element: class="fragment fade-in-then-semi-out" -->
+* Continuous improvement <!-- .element: class="fragment fade-in-then-semi-out" -->
 
 
 
