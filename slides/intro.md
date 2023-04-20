@@ -1,8 +1,10 @@
-### How can we structurally "trust" code-changes made by an AI?
+## How to trust <br> non-developers
+
+## to make product changes <br> via AI <!-- .element: class="fragment" -->
 
 
 
-#### Agenda
+## Agenda
 
 * TO
 * DO
