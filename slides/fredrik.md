@@ -31,32 +31,21 @@
 
 ## AI can solve this to a large extent, but...
 
-## How do we trust the AI? <!-- .element: class="fragment" -->
+### How do we trust the AI? <!-- .element: class="fragment" -->
+
+### And how do you trust a human? <!-- .element: class="fragment" -->
 
 
 
-### When & how much should non-developers be involved in the product development process
+### Both AI and humans have flaws
 
-* During the requirements phase? <!-- .element: class="fragment" -->
-* During the implementation phase? <!-- .element: class="fragment" -->
-* During the QA phase? <!-- .element: class="fragment" -->
-
-
-
-### Translation issue
-
-* Today we spend lots of resources translating requirement → developer → code <!-- .element: class="fragment" -->
-* What if we instead could spend those resources on translating requirement → solution → reality <!-- .element: class="fragment" -->
+| AI flaws                                | Human flaws                          |
+|-----------------------------------------|--------------------------------------|
+| Difficulty in explaining decisions (black box) | Needs motivation              |
+| Vulnerability to adversarial attacks    | Gets tired                           |
+| Hallucinations / Overconfident          | Expensive                            |
+| Lack of accountability                  | Needs coffee                         |
+<!-- .element: style="font-size: 30px;" -->
 
 
-
-
-1. More ideas from non-developers than there are developers to implement them
-    - AI developers can work all day and night!
-    
-    ![Figma 1](https://www.figma.com/file/P5jixPdn1PjWi4bC34Mob5/Untitled?node-id=1%3A749&t=muk1meebQ0ed7wFl-1)
-    
-    ![Figma 2](https://www.figma.com/file/P5jixPdn1PjWi4bC34Mob5/Untitled?node-id=1%3A750&t=muk1meebQ0ed7wFl-1)
-    
-2. Consequence: fewer ideas gathering dust in the backlog
-3. Manager needed to filter, refine, and prioritize requirements
+### How do we minimize the problems with both AI and humans?
