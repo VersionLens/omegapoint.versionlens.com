@@ -18,6 +18,8 @@
 - Try it out on [versionlens.com](https://versionlens.com)
 - pascal@versionlens.com, fredrik@versionlens.com
 
+![AI brain](/images/ai-brain.png) <!-- .element: style="max-width: 45%" -->
+
 Note:
 Questions for the discussion
 - What would you **never** trust an AI to do?
