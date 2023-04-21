@@ -15,7 +15,7 @@
 ## Thank you
 
 - This presentation: [omegapoint.versionlens.com](https://omegapoint.versionlens.com)
-- [versionlens.com](https://versionlens.com)
+- Try it out on [versionlens.com](https://versionlens.com)
 - pascal@versionlens.com, fredrik@versionlens.com
 
 Note:
